@@ -21,7 +21,6 @@ def main():
     font = pygame.font.Font('Roboto-Black.ttf', 32)
 
     number = 0
-    stop_threads = False
 
     def listen():
         sleeptimes = 0.3
