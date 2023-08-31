@@ -21,6 +21,9 @@ To exit, press `p` and then click the x to close the window. The `p` key stops t
 To increase the counter, press `space`.
 To reset the counter press `r`.
 
+Key presses are detected everywhere, even the app is not in focus.
+Window is always on top of all programs.
+
 --------------------
 
 If someone finds a better alternaive, please let me know! In the mean time, if request is high, I will improve the counter and make the code better and what-not.
